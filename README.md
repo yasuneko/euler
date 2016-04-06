@@ -1,2 +1,2 @@
-# euler
-for project euler problems
+# exercises
+projects to help expand code knowledge
