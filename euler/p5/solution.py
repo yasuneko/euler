@@ -3,7 +3,7 @@ from math import ceil, sqrt
 from sets import Set
 import sys
 
-sys.path.append('../utils')
+sys.path.append('../../utils')
 
 from override_utils import *
 from prime_utils import is_prime

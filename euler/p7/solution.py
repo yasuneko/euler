@@ -3,7 +3,7 @@
 
 import sys
 
-sys.path.append('../utils')
+sys.path.append('../../utils')
 
 from prime_utils import is_prime
 
